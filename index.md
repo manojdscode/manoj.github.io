@@ -1,4 +1,4 @@
-## Data are the new oil!!
+# Data are the new oil!!
 
 ### About Me 
 ---
@@ -7,8 +7,8 @@ I like to play with data. My love for Data Science has brought me do master's in
 
 ### Education / Resume
 ---
-[If interested, do have a look at my resume](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[If interested, do have a look at my resume](/pdf/manoj.pdf)
+
 
 ### Projects
 ---
@@ -23,10 +23,10 @@ I like to play with data. My love for Data Science has brought me do master's in
 
 ### Skills
 ---
---Python
---Sql
---MS Excel
---Web Development
+#### Python
+#### Sql
+#### MS Excel
+#### Web Development
 
 ### Contact
 ---
