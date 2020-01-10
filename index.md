@@ -1,4 +1,4 @@
-# Data are the new oil!!
+# Data is the new oil!!
 
 ### About Me 
 ---
