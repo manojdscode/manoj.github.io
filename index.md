@@ -23,10 +23,10 @@ I like to play with data. My love for Data Science has brought me do master's in
 
 ### Skills
 ---
--Python
--Sql
--MS Excel
--Web Development
+--Python
+--Sql
+--MS Excel
+--Web Development
 
 ### Contact
 ---
