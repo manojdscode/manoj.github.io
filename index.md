@@ -20,11 +20,8 @@
 
 ### Contact
 ---
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+If you want to collaborate on any idea, hackathon, project.
+Feel free to write me on kmanoj1363@gmail.com.
 
 ---
 
@@ -32,5 +29,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
