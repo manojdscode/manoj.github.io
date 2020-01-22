@@ -15,7 +15,7 @@ I like to play with data. My love for Data Science has brought me do master's in
 #### <b>Android Development</b>
  I am developing an app for the students of University of Delhi. It will have a basic functionality of exam related materials, campus news etc. This project is in development phase. 
  You can have a look at the demo app for the same.
-(https://play.google.com/store/apps/details?id=club.new_year_greetings.calculator.calculator)
+<a href="https://play.google.com/store/apps/details?id=club.new_year_greetings.calculator.calculator/">Link to app</a>
 
 #### <b>Cloud Based Fleet Tracking with Real Time Geolocation and Geofencing</b> 
 
